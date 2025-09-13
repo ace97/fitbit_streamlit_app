@@ -11,7 +11,7 @@ import datetime
 # with the following content:
 # CLIENT_ID = "your_client_id"
 # CLIENT_SECRET = "your_client_secret"
-REDIRECT_URI = 'https://<your-username>-<your-app-name>-<random-hash>.streamlit.app'
+REDIRECT_URI = 'https://fitbit-ace.streamlit.app'
 # -----------------------------------------------------------
 
 # Fitbit API endpoints
